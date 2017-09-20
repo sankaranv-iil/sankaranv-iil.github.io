@@ -17,6 +17,7 @@ For my final year project, our team built a quadrotor from scratch, and implemen
 ### Extra-Curricular Activities
 
 I am a playwright, and have been working on original scripts for public shows with Crea-Shakti and Lights Out Please. [Here's](https://www.youtube.com/watch?v=rBHO34u_u2g&feature=youtu.be) the video for the last show I did.  
+
 I was involved in video editing and graphic design through my school and undergraduate days. [Here's](https://www.facebook.com/LightsOutPlease/videos/961480847296394/) a sample. I also love music and play a hodgepodge of instruments.
 
 ### Contact
