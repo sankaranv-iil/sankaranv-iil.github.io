@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 title: Sankaran Vaidyanathan
 description: Project Associate, Department of CSE, IIT Madras
 email: sankaranv8[AT]gmail[DOT]com
+
+plugins:
+  - jekyll-redirect-from
