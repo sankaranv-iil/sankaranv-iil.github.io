@@ -1,5 +1,6 @@
----
-redirect_to: "https://sankaranv.github.io
----
-
-This page has been moved. Redirecting you in a moment...
+<html>
+    <head>
+	<meta http-equiv="refresh" content="0; url=http://sankaranv.github.io/">
+	<link rel="canonical" href="http://sankaranv.github.io/" />
+    </head>
+</html>
